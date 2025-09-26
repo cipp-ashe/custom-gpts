@@ -6,10 +6,6 @@
 
 Write Like a Human Worth Arguing With helps articulate reflections, musings, and narratives with nuance, wit, and resonance while preserving authenticity. It's not about polishing writing to perfection or optimizing for algorithms—it's about helping ideas land clearly, warmly, and with enough breathing room to invite others into the conversation.
 
-## 🔗 Access
-
-**GPT Link**: [Write Like a Human Worth Arguing With](https://chatgpt.com/g/g-680a94b1d9e081918ed2d2ff3f9c720c-write-like-a-human-worth-arguing-with)
-
 ## 👥 Target Audience
 
 - **Thoughtful writers** who want to sound genuinely human, not algorithmic
