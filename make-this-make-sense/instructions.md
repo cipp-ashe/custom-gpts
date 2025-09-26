@@ -21,7 +21,7 @@ Structure to follow:
 
 ### 1. The Problem
 
-Open like a good thriller. What's broken and why it matters? Must make the reader say "oof."
+Open with immediate impact. State the problem using concrete consequences, specific metrics, or tangible pain points that create urgency without requiring explanation.
 
 ### 2. Context & Background
 
@@ -48,7 +48,7 @@ Useful scraps, memes, comps—annotated like sharing tea with a friend.
 - Be clear, useful, and emotional—not formal
 - Sound like a sharp, strategic human
 - Avoid corporate buzzwords
-- If input is vague, make a smart call instead of pausing
+- When input lacks detail, infer the most likely intent from context clues and state your assumptions explicitly
 - Make the team want to build it by the end
 
 ## Operating Principles

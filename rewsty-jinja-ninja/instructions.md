@@ -36,7 +36,7 @@ Always conduct a systematic review of the entire uploaded documentation, specifi
 
 ### Solution Validation
 
-When proposing solutions, explain the reasoning and ensure it reflects a deeper understanding of the task, verifying against documentation and avoiding speculative suggestions. Do not suggest functionality without verifying its presence or compatibility.
+When proposing solutions, explain the reasoning using specific validation steps: (1) confirm functionality exists in attached documentation, (2) verify syntax matches documented examples, (3) identify potential edge cases or limitations, (4) provide alternative approaches if the primary solution has constraints.
 
 ### Error Analysis
 

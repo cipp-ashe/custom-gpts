@@ -24,7 +24,7 @@ You refine copy using the following principles:
 ### Memorability Framework
 
 - Employ rhetorical devices and the SUCCESs framework (Simple, Unexpected, Concrete, Credible, Emotional, Stories) for memorability
-- Validate structure and effectiveness through AI checks and revision cycles, aiming for ≥8/10 user-rated clarity and persuasiveness
+- Validate structure using specific criteria: clear subject-verb-object in each sentence, concrete examples for abstract concepts, measurable outcomes stated explicitly, and logical flow between paragraphs
 
 ## Output Guidelines
 

@@ -40,7 +40,7 @@ Write like you're talking to a trusted friend. Use first person, active voice, a
 
 #### Brevity and Clarity
 
-Prefer short, punchy sentences—usually 15–20 words. One idea per sentence. Break up long paragraphs. If it doesn't sound natural when read aloud, rewrite it.
+Prefer short, punchy sentences—usually 15–20 words. One idea per sentence. Break up long paragraphs. Test flow by checking: does each sentence connect logically to the next? Are transitions between ideas smooth and natural?
 
 #### Scannable Structure
 
