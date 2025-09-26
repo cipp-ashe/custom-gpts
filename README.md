@@ -4,7 +4,7 @@ A curated collection of specialized ChatGPT assistants designed for writing, dev
 
 ## 📝 Writing & Content Creation
 
-### [Clarity Catalyst](https://chatgpt.com/g/g-6831265f491c819187e8c7ff77756698-clarity-catalyst)
+### [Clarity Catalyst](clarity-catalyst/)
 
 **Purpose**: Transforms user-submitted text into powerful, action-inspiring versions while preserving all essential information.
 
@@ -14,7 +14,7 @@ A curated collection of specialized ChatGPT assistants designed for writing, dev
 
 ---
 
-### [Make This Make Sense](https://chatgpt.com/g/g-6839a4fe9304819197913e27754f7552-make-this-make-sense)
+### [Make This Make Sense](make-this-make-sense/)
 
 **Purpose**: Turns messy content into structured, strategic white papers or one-pagers designed to provoke thought and inspire action.
 
@@ -24,7 +24,7 @@ A curated collection of specialized ChatGPT assistants designed for writing, dev
 
 ---
 
-### [Write Like a Human Worth Arguing With](https://chatgpt.com/g/g-680a94b1d9e081918ed2d2ff3f9c720c-write-like-a-human-worth-arguing-with)
+### [Write Like a Human Worth Arguing With](write-like-a-human-worth-arguing-with/)
 
 **Purpose**: Helps articulate reflections, musings, and narratives with nuance, wit, and resonance while preserving authenticity.
 
@@ -34,7 +34,7 @@ A curated collection of specialized ChatGPT assistants designed for writing, dev
 
 ## 🧠 Reasoning & Analysis
 
-### [Naive Reasoning Engine](https://chatgpt.com/g/g-682fc0ba26ac819191ceea308895becc-naive-reasoning-engine)
+### [Naive Reasoning Engine](naive-reasoning-engine/)
 
 **Purpose**: Operates under strict protocols of deliberate skepticism and layered self-verification to prioritize accuracy over speed.
 
@@ -44,7 +44,7 @@ A curated collection of specialized ChatGPT assistants designed for writing, dev
 
 ---
 
-### [Pattern Thinker](https://chatgpt.com/g/g-6862e1ad6dac81919af4b82102abc79d-pattern-thinker)
+### [Pattern Thinker](pattern-thinker/)
 
 **Purpose**: Acts as a hyper-contextual systems thinker applying mental models, first principles, and questioning frameworks dynamically.
 
@@ -54,7 +54,7 @@ A curated collection of specialized ChatGPT assistants designed for writing, dev
 
 ---
 
-### [Task-Aware GPT](https://chatgpt.com/g/g-6868363d43908191bb15cf50b088f09e-task-aware-gpt)
+### [Task-Aware GPT](task-aware-gpt/)
 
 **Purpose**: Meta-cognitive assistant that explicitly maps user inputs against benchmark task archetypes for optimal response formatting.
 
@@ -64,7 +64,7 @@ A curated collection of specialized ChatGPT assistants designed for writing, dev
 
 ## 💻 Development & Technical
 
-### [Reactful Reasoning](https://chatgpt.com/g/g-689ecb079168819194388efd0d7cd7e8-reactful-reasoning)
+### [Reactful Reasoning](reactful-reasoning/)
 
 **Purpose**: Provides deep technical React reasoning in the style of Dan Abramov, with clear explanations of why things work.
 
@@ -74,7 +74,7 @@ A curated collection of specialized ChatGPT assistants designed for writing, dev
 
 ---
 
-### [Socratic Dev Critique](https://chatgpt.com/g/g-685624068aec8191b44558cf5655599e-socratic-dev-critique)
+### [Socratic Dev Critique](socratic-dev-critique/)
 
 **Purpose**: Socratic design reviewer for frontend, architecture, and systems development using established mental models.
 
@@ -84,7 +84,7 @@ A curated collection of specialized ChatGPT assistants designed for writing, dev
 
 ---
 
-### [Rewsty Jinja Ninja](https://chatgpt.com/g/g-CV7vP7uQ4-rewsty-jinja-ninja)
+### [Rewsty Jinja Ninja](rewsty-jinja-ninja/)
 
 **Purpose**: Specialized for Rewst's automation platform users, focusing on efficient Jinja2 templating within Rewst's environment.
 
@@ -94,7 +94,7 @@ A curated collection of specialized ChatGPT assistants designed for writing, dev
 
 ## 🎯 Productivity & Organization
 
-### [Next Step Extractor](https://chatgpt.com/g/g-686572e3f84081918b7206671f55192f-next-step-extractor)
+### [Next Step Extractor](next-step-extractor/)
 
 **Purpose**: Simplifies any input into a single clear, practical action or item to remember, focused on forward motion.
 
@@ -104,7 +104,7 @@ A curated collection of specialized ChatGPT assistants designed for writing, dev
 
 ---
 
-### [Parking Lot Buddy](https://chatgpt.com/g/g-6758c96fc1888191b540481cd24324e0-parking-lot-buddy)
+### [Parking Lot Buddy](parking-lot-buddy/)
 
 **Purpose**: Helps stay organized by categorizing and "parking" additional themes or unrelated topics during focused discussions.
 
@@ -114,7 +114,7 @@ A curated collection of specialized ChatGPT assistants designed for writing, dev
 
 ---
 
-### [One-Pager Pro](https://chatgpt.com/g/g-684b8c4b38288191a2e1b54ec3213409-one-pager-pro)
+### [One-Pager Pro](one-pager-pro/)
 
 **Purpose**: Helps create effective one-pagers that clearly define problems, success metrics, and project scope.
 
