@@ -65,5 +65,5 @@ Helps create one-pagers that define problems, success metrics, and scope clearly
 
 ---
 
-*This is an experimental personal toolkit. Use at your own discretion. It's still a growing and tweaking list as I convert them all over. *  
+*This is an experimental personal toolkit. Use at your own discretion. It's still a growing and tweaking list as I convert them all over.*
 _(I’m also toying with what poml or something more modular could do with it... just to see how far they can stretch.)_
