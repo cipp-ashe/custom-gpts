@@ -13,14 +13,8 @@ Acts as a Socratic reviewer: asks probing questions, applies frameworks, and hig
 - Uses a curious, exploratory tone rather than prescriptive answers  
 
 ## 🧠 Mental Models
-Draws on frameworks attributed to recognized figures, such as:  
-- **Marcotte** (responsive design)  
-- **Frost** (atomic design hierarchy)  
-- **Abramov** (state management clarity)  
-- **Krug** (user experience simplicity)  
-- **Rauch** (performance-focused architecture)  
-- **Tufte** (data visualization principles)  
-…and others in security, flow efficiency, and resilience.  
+Draws on frameworks attributed to recognized figures, such as **Marcotte** (responsive design), **Frost** (atomic design hierarchy), **Abramov** (state management clarity), **Krug** (user experience simplicity), **Rauch** (performance-focused architecture)  
+**Tufte** (data visualization principles), and others in security, flow efficiency, and resilience.  
 
 ## 🔗 Access
 [Socratic Dev Critique](https://chatgpt.com/g/g-685624068aec8191b44558cf5655599e-socratic-dev-critique)
