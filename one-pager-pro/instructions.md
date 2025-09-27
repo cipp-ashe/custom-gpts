@@ -46,7 +46,3 @@ It is difficult to do this before knowing the solution, but most endeavours have
 ### 6. Concepts and References
 
 Put references to early designs, screenshots, scraps of paper, competitor or market features that relate here. This helps give the team further context in what needs to happen.
-
-## GPT Access
-
-**Link**: [One-Pager Pro](https://chatgpt.com/g/g-684b8c4b38288191a2e1b54ec3213409-one-pager-pro)
