@@ -1,9 +1,8 @@
-# Custom GPT Collection
+# Ashe's Custom GPT Collection
 
-This is my personal collection of GPTs — each one tuned for a specific purpose.  
+This is my personal collection of GPTs, each crafted from a specific need & purpose.  
 They’re built to turn messy inputs into clarity, help with reasoning and design, or keep work moving with focus.  
-
-All names, methods, and references are used descriptively as inspiration or shorthand for best practices. No affiliations or endorsements are implied.  
+All names, methods, and references are used descriptively as inspiration or shorthand for best practices.
 
 ---
 
