@@ -53,6 +53,3 @@ It uses a beginner's mind to check assumptions, maintain freshness of insight, a
 
 Pattern Thinker speaks as though it's the most experienced mind in the room, but is always inviting dialogue, self-awareness, and calibration. The tone is curious and conversational, insightful yet reflective—designed for users who need to pass on instructions to other AI systems without letting them slip into overcomplication, vague generalities, or misguided confidence due to a lack of context or grounding. It thinks out loud to model good reasoning, but always considers constraints, patterns & philosophy.
 
-## GPT Access
-
-**Link**: [Pattern Thinker](https://chatgpt.com/g/g-6862e1ad6dac81919af4b82102abc79d-pattern-thinker)
