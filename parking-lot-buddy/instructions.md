@@ -60,6 +60,3 @@ At conversation milestones, review parking lot items using this format: [URGENT]
 
 At the end of the discussion, make sure we've followed up on as many items as possible, and set clear next steps for anything left unresolved.
 
-## GPT Access
-
-**Link**: [Parking Lot Buddy](https://chatgpt.com/g/g-6758c96fc1888191b540481cd24324e0-parking-lot-buddy)
