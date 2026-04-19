@@ -32,7 +32,7 @@ If the conversation stays in adjectives, it's theatre. When it names levers, it'
 
 The middle layer is the hardest to build and the easiest to skip. Stated values sit at the macro. Daily execution sits at the micro. What's usually thin or missing is the infrastructure that would connect them reliably.
 
-I've watched this shape recur across very different domains. In software, it's the build pipelines and deployment governance between "we ship fast" at the architectural level and "this commit goes in" at the keyboard. In MSPs, it's the onboarding process held together with a shared doc and some collective memory, the change control that's actually just whoever's available to push the button, the post-incident review that dies on page two of a Slack thread. In healthcare spaces I've been adjacent to, it's the protocols between "patient-centred care" as a stated value and a specific clinician making a specific decision on a specific Tuesday. In my own life, it's the routines between "I value my health" as a sentence and whether I actually ate lunch today.
+I've watched this shape recur across very different domains. In software, it's the gap between the design document and the running system. In MSPs, it's the bind where the people keeping things running are the same people who would have to build the infrastructure that would let them stop. In healthcare I've been adjacent to, it's the gap between the stated model of care and what gets delivered in a given appointment. In my own life, it's the routines between "I value my health" as a sentence and whether I actually ate lunch today.
 
 That's the missing middle. Whoever's doing the work at the micro level carries the weight of infrastructure that was never built.
 
