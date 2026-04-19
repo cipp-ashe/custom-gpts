@@ -30,11 +30,11 @@ If the conversation stays in adjectives, it's theatre. When it names levers, it'
 
 **The layer in between is where everything actually happens.**
 
-In MSPs I've worked with, the macro is "we're customer-obsessed." The micro is individual engineers doing heroic things for clients at 2am. What's usually missing is the layer that would translate one into the other reliably. The onboarding process held together with a shared doc, some collective memory, and the hope that whoever set it up three years ago never leaves. The change control that's actually just whoever's available to push the button. The post-incident review that's a Slack thread which dies on page two.
+The middle layer is the hardest to build and the easiest to skip. Stated values sit at the macro. Daily execution sits at the micro. What's usually thin or missing is the infrastructure that would connect them reliably.
 
-That's the missing middle. The engineers are carrying the weight of infrastructure that was never built.
+I've watched this shape recur across very different domains. In software, it's the build pipelines and deployment governance between "we ship fast" at the architectural level and "this commit goes in" at the keyboard. In MSPs, it's the onboarding process held together with a shared doc and some collective memory, the change control that's actually just whoever's available to push the button, the post-incident review that dies on page two of a Slack thread. In healthcare spaces I've been adjacent to, it's the protocols between "patient-centred care" as a stated value and a specific clinician making a specific decision on a specific Tuesday. In my own life, it's the routines between "I value my health" as a sentence and whether I actually ate lunch today.
 
-I see the same shape in other systems. In software, it's the build pipelines and deployment governance between "we ship fast" at the architectural level and "this commit goes in" at the keyboard. In healthcare I've been adjacent to, it's the protocols between "patient-centred care" as a stated value and a specific clinician making a specific decision on a specific Tuesday. In my own life, it's the routines between "I value my health" as a sentence and whether I actually ate lunch today.
+That's the missing middle. Whoever's doing the work at the micro level carries the weight of infrastructure that was never built.
 
 When the middle is thin, stated values fail to realize themselves. The reason is almost always the same, and I've said it out loud more than once: *I ran out of bandwidth for infrastructure.*
 
