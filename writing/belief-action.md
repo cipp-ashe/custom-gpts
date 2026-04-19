@@ -18,7 +18,7 @@ This shows up in meetings as "we can't do X" when X is actually available and ju
 
 **Real accountability names the lever.**
 
-I notice when I'm deflecting because my reach changes. When I'm answering honestly, I can point at the specific thing I chose to do or not do. When I'm deflecting, I reach for scale. The team is too small. The market conditions are too hard. The systemic constraints are too big. Each of those can be real. Each is also where my explanation lives when I don't want to look at the specific choice.
+Honest answers point at specific things: a decision made, an action taken, a path chosen. Deflecting answers reach for scale. The team is too small. The market conditions are too hard. The systemic constraints are too big. All of those can be real. They're also where an explanation lands when naming the specific choice would mean examining it.
 
 The test I run on myself: does the constraint survive naming the lever? Pick a specific thing I had access to, that I could have done, that I didn't. If naming that one thing makes the constraint dissolve, the constraint wasn't doing the work. Something else was. Usually a priority choice I didn't want to audit.
 
